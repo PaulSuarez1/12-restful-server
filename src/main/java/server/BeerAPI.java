@@ -66,5 +66,3 @@ public class BeerAPI {
         return beer;
     }
 }
-
-// return new ModelAndView("redirect:/beer");
